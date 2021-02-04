@@ -8,7 +8,7 @@
 
 * Media Queries used
 
-[logo]: https://github.com/GeRiToOo/ec1-gallery/master/responsive.png 
+[logo]: https://github.com/GeRiToOo/ec1-gallery/blob/main/responsive.png 
 
 ## Demo
 
