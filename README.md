@@ -4,7 +4,7 @@
 
 * HTML, CSS and Vanilla JavaScript
 
-## Responsive
+## Responsive? - Yes 
 
 * Media Queries 
 
