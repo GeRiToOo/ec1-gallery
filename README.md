@@ -8,7 +8,7 @@
 
 * Media Queries used
 
-[amIresponsive] (./responsive.png)
+[logo]: https://github.com/GeRiToOo/ec1-gallery/master/responsive.png 
 
 ## Demo
 
