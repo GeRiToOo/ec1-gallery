@@ -10,3 +10,12 @@
 
 ## Demo
 
+
+* WEB 
+
+![demo gif](./webExample.gif)
+
+
+* Mobile
+
+![demo gif](./mobileExample.gif)
