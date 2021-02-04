@@ -6,7 +6,9 @@
 
 ## Responsive? - Yes 
 
-* Media Queries 
+* Media Queries used
+
+[amIresponsive] (./responsive.png)
 
 ## Demo
 
