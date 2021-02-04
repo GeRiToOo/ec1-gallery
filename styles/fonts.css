@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "DIN Pro";
+    src: url("../assets/fonts/DINPro-Regular.otf") format("opentype");
+    /* font-weight: 400; */
+}
+
+@font-face {
+    font-family: "DIN Pro";
+    src: url("../assets/fonts/DINPro-Bold.otf") format("opentype");
+    font-weight: bold;
+}
